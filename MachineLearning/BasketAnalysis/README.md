@@ -1,6 +1,6 @@
 ## Description:
 
-This directory contains the information related to the project _BasketAnalysis_ which is based on **Apriori** algorithm.
+This directory contains the artifacts related to the project _BasketAnalysis_ which is based on **Apriori** algorithm.
 
 Below is the directory structure and its contents,
 
