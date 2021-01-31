@@ -39,7 +39,7 @@
 
 ### 4.3 What are the top 5 frequent individual items sold in the supermarket?
 
-![Whole Milk](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/WholeMilk.png) ![Vegetables](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Vegetables.png) ![RollBuns](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/RollsBuns.png) ![Soda](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Soda.png) ![Yogurt](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Yogurt.png)
+![Top 5 Frequent Item](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Top5FrequentItem.PNG)
 
 ### 4.4 What are the top 5 frequent itemsets sold in the supermarket?
 
