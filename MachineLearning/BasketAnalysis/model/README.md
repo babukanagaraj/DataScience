@@ -27,4 +27,4 @@
 
 ![No of items in Txn](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Txn.png)
 
-* The maximum number of items sold in a transaction is _32_.
+* _The maximum number of items sold in a transaction is 32_.
