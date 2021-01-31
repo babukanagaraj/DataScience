@@ -41,4 +41,10 @@
 
 ![Whole Milk](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/WholeMilk.png) ![Vegetables](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Vegetables.png) ![RollBuns](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/RollsBuns.png) ![Soda](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Soda.png) ![Yogurt](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Yogurt.png)
 
+### 4.4 What are the top 5 frequent itemsets sold in the supermarket?
+
+### 4.4.1 Itemset 1
+
+
+
 
