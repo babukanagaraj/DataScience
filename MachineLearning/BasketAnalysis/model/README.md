@@ -36,3 +36,7 @@
 * _There are 169 unique items in the dataset_.
 
 * _Canned beer is the top selling item in the supermarket_.
+
+### 4.3 What are the top 5 frequent individual items sold in the supermarket?
+
+
