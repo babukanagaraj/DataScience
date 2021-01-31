@@ -14,9 +14,13 @@
 
 * Identify the items and the itemset that creates a huge impact in driving the revenue and profit growth of the Supermarket business.
 
-## Supermarket Data transaction information
+## 3. Supermarket Data transaction information
 
 * The transaction dataset contains,
   *  _9835 rows and 1 column_
 
 * Each row is a transaction and represents the items that are sold in that transaction. Refer the data directory for the dataset.
+
+## 4. Exploratory Data Analysis
+
+### 4.1 What is the maximum number of items that are sold in a transaction?
