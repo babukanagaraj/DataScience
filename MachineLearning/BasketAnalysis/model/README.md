@@ -63,5 +63,22 @@
 
 ![Itemset 5](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Itemset-5.PNG)
 
+## 5. Conclusion
 
+* **Whole Milk** is the top selling item in the Supermarket.
 
+* Customer had been purchasing Whole Milk when purchased either of the below items,
+
+  * Citrus Fruits
+  * Root Vegetables
+  * Other Vegetables
+  * Yogurt
+  * Butter
+  * Domestic eggs
+  
+  ## 6. Recommendation
+
+* Supermarket can introduce ***promotional discounts*** by clubbing 
+  * _Whole Milk_ with its identified frequent associated products.
+
+* Also Supermarket can place the Whole Milk and its associated products in the adjacent shelves so that customers can buy them together.
