@@ -28,3 +28,11 @@
 ![No of items in Txn](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Txn.png)
 
 * _The maximum number of items sold in a transaction is 32_.
+
+### 4.2 What are the top selling items in the supermarket?
+
+![Top selling items](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/TopSellingItem.png)
+
+* _There are 169 unique items in the dataset_.
+
+* _Canned beer is the top selling item in the supermarket_.
