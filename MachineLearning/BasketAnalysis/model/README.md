@@ -26,3 +26,5 @@
 ### 4.1 What is the maximum number of items that are sold in a transaction?
 
 ![No of items in Txn](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Txn.png)
+
+> The maximum number of items sold in a transaction is 32.
