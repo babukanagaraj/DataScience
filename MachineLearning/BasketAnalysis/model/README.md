@@ -17,4 +17,6 @@
 ## Supermarket Data transaction information
 
 * The transaction dataset contains,
-  * > 9835 rows and 1 column
+  *  _9835 rows and 1 column_
+
+* Each row is a transaction and represents the items that are sold in that transaction. Refer the data directory for the dataset.
