@@ -47,5 +47,21 @@
 
 ![Itemset 1](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Itemset-1.PNG)
 
+### 4.4.2 Itemset 2
+
+![Itemset 2](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Itemset-2.PNG)
+
+### 4.4.3 Itemset 3
+
+![Itemset 3](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Itemset-3.PNG)
+
+### 4.4.4 Itemset 4
+
+![Itemset 4](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Itemset-4.PNG)
+
+### 4.4.5 Itemset 5
+
+![Itemset 5](https://raw.githubusercontent.com/babukanagaraj/DataScience/master/MachineLearning/BasketAnalysis/images/Itemset-5.PNG)
+
 
 
