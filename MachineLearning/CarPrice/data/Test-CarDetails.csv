@@ -1,0 +1,6 @@
+name,year,km_driven,fuel,seller_type,transmission,owner
+Honda City,2006,70000,Petrol,Individual,Manual,Second Owner
+Honda City,2006,70000,CNG,Dealer,Automatic,First Owner
+Honda City,2006,70000,Diesel,Trustmark Dealer,Manual,Third Owner
+Honda City,2006,70000,Electric,Individual,Manual,Fourth & Above Owner
+Honda City,2006,70000,LPG,Individual,Manual,Test Drive Car
