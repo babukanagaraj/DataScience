@@ -76,7 +76,7 @@
   * Butter
   * Domestic eggs
   
-  ## 6. Recommendation
+## 6. Recommendation
 
 * Supermarket can introduce ***promotional discounts*** by clubbing 
   * _Whole Milk_ with its identified frequent associated products.
